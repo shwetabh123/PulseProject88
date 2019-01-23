@@ -1,0 +1,5 @@
+2018-09-28 07:55:48 INFO  ExtentReportListener:55 - testValidLogin1  test is started
+2018-09-28 07:56:17 INFO  ExtentReportListener:65 - testValidLogin1test is passed
+2018-09-28 07:56:17 INFO  ExtentReportListener:55 - testValidLogin2  test is started
+2018-09-28 07:56:17 INFO  ExtentReportListener:80 - testValidLogin2  test is failed
+2018-09-28 07:56:17 INFO  ExtentReportListener:80 - testValidLogin2  test is failed

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/apache-log4j-extras-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/bcprov-1.45.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/commons-cli-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/commons-lang3-3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/extentreports-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/flex-messaging-core-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/fontbox-1.8.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/groovy-all-2.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/guava-24.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/jcommon-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/jfreechart-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/jms-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/langdetect.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/maven-embedder-3.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/microsoft-translator-java-api-0.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/MonteScreenRecorder.Jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/mysql-connector-java-6.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/org-apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/pdfbox-1.8.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-examples-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-excelant-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-ooxml-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-ooxml-schemas-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/poi-scratchpad-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/proxy-vole-20131209.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/reflections-0.9.9-RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/rsyntaxtextarea-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/slf4j.jdk14-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/soapui-5.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/wsdl4j-1.6.2-fixed.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/xom-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/zxing-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/workspace/PulseProject88/lib/zxing-j2se-1.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_192"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
