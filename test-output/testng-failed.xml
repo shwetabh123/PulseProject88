@@ -1,34 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Parallel test suite]" parallel="classes">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <parameter name="browser" value="chrome"/>
-  <test name="Regression -Pulse(failed)" parallel="classes">
-    <parameter name="browser" value="chrome"/>
+  <test name="Default test(failed)">
     <classes>
-      <class name="com.pulse.Test.ValidLogin3">
+      <class name="com.pulse.Test.AddParticipant">
         <methods>
-          <include name="setUp"/>
-          <include name="Companydirectory" invocation-numbers="0"/>
-          <include name="tearDown"/>
+          <include name="addparticipant"/>
         </methods>
-      </class> <!-- com.pulse.Test.ValidLogin3 -->
-      <class name="com.pulse.Test.ValidLogin">
-        <methods>
-          <include name="SetUp"/>
-          <include name="setUp"/>
-          <include name="Author" invocation-numbers="0"/>
-          <include name="tearDown"/>
-          <include name="tearDown"/>
-          <include name="afterClass"/>
-        </methods>
-      </class> <!-- com.pulse.Test.ValidLogin -->
+      </class> <!-- com.pulse.Test.AddParticipant -->
       <class name="com.pulse.Test.ValidLogin2">
         <methods>
-          <include name="setUp"/>
-          <include name="EmailManagement" invocation-numbers="0"/>
-          <include name="tearDown"/>
+          <include name="EmailManagement"/>
         </methods>
       </class> <!-- com.pulse.Test.ValidLogin2 -->
+      <class name="com.pulse.Test.ValidLogin3">
+        <methods>
+          <include name="SetUp"/>
+          <include name="Companydirectory"/>
+        </methods>
+      </class> <!-- com.pulse.Test.ValidLogin3 -->
+      <class name="com.pulse.Test.InvalidLogin">
+        <methods>
+          <include name="testInvalidLogin"/>
+        </methods>
+      </class> <!-- com.pulse.Test.InvalidLogin -->
+      <class name="com.pulse.Test.ValidLogin">
+        <methods>
+          <include name="Author"/>
+        </methods>
+      </class> <!-- com.pulse.Test.ValidLogin -->
+      <class name="com.pulse.Test.AnalyseReport">
+        <methods>
+          <include name="testDVReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.pulse.Test.AnalyseReport -->
     </classes>
-  </test> <!-- Regression -Pulse(failed) -->
-</suite> <!-- Failed suite [Parallel test suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
